@@ -1,11 +1,40 @@
-# Rasterloom releases
+<p align="center">
+  <img src="assets/rasterloom-flower.png" width="96" height="96" alt="" />
+</p>
 
-Release downloads and the Sparkle update feed for Rasterloom, a Tiny Things app.
+<h1 align="center">Rasterloom</h1>
 
-[Download Rasterloom 0.1.0 alpha](https://github.com/lemberalla/rasterloom-releases/releases/download/v0.1.0/Rasterloom.dmg)
+<p align="center">
+  Image editing, moodboards, and a local asset library.<br />
+  Made for Mac.
+</p>
 
-Requires Apple silicon and macOS 15 or later. Open the DMG and drag Rasterloom into Applications.
+<p align="center">
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.0/Rasterloom.dmg"><strong>Download 0.1.0 alpha</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://rasterloom-website.vercel.app/">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.0">Release notes</a>
+</p>
 
-[Release notes](https://github.com/lemberalla/rasterloom-releases/releases/tag/v0.1.0) · [Update feed](https://raw.githubusercontent.com/lemberalla/rasterloom-releases/main/appcast.xml)
+<p align="center">Apple silicon · macOS 15 or later</p>
 
-This is an alpha. Keep backups of important projects; macOS 15 and minimum-memory hardware testing remain pending. Source code is maintained separately in a private repository.
+![Rasterloom editing a full-canvas portrait with layered, editable typography.](assets/editor.jpg)
+
+### Make, collect, organize
+
+- **Edit** with layers, editable text and vectors, gradients, masks, retouching, and export.
+- **Collect** images, links, notes, and colors in saved moodboards.
+- **Organize** a local asset library. Optional image descriptions and tag suggestions run on-device after a model download.
+
+### Install
+
+Open the downloaded DMG and drag Rasterloom into Applications. Future updates are available in the app; you can also download them here.
+
+This is an alpha. Keep backups of important projects. macOS 15 and minimum-memory hardware testing are still pending.
+
+[Privacy](https://rasterloom-website.vercel.app/privacy/) · [Update feed](https://raw.githubusercontent.com/lemberalla/Rasterloom/main/appcast.xml)
+
+Downloads and updates live here. Application source is maintained separately in a private repository.
+
+Made by Oncel Ozgebayram at [Tiny Things](https://tinythings.app/).
