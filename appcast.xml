@@ -1,13 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Rasterloom updates</title>
-    <link>https://github.com/lemberalla/rasterloom-releases/releases</link>
-    <description>Rasterloom by Tiny Things</description>
-    <language>en</language>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: 1uJkSkkqADd7jtYxd5wiDJC7PTHI/LJR5J/dZy1ZxvLqK6hgnA96czhpdyryO+ozjJPzUmcC9JGreIXvMHpxDg==
-length: 609
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Rasterloom updates</title>
+        <link>https://github.com/lemberalla/rasterloom-releases/releases</link>
+        <description>Rasterloom by Tiny Things</description>
+        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 01 Oct 2026 14:44:31 +0700</pubDate>
+            <link>https://github.com/lemberalla/rasterloom-releases/releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.1.0 alpha
+
+The first testing release of Rasterloom, a Tiny Things app.
+
+- Layered image editing with retained text, vectors, masks, gradients, retouching, smart artwork and export.
+- A local asset library and rebuilt moodboards for images, links, notes and colors.
+- Optional on-device image descriptions and tag suggestions after a separate model download.
+- Automatic update checks, a manual check, and a quiet update-available button.
+
+Requirements: Apple silicon and macOS 15 or later. Installed-app acceptance on macOS 15 is still pending. The optional description model requires at least 8 GB of memory; minimum-hardware acceptance is still pending.
+
+This is an alpha, not a Photoshop-compatibility promise. Keep backups of important projects. Relight is an isolated experiment and is not included. Commercial activation is not enabled in this build.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/rasterloom-releases/releases/download/v0.1.0/Rasterloom-0.1.0.zip" length="255857171" type="application/octet-stream" sparkle:edSignature="k0KpzYUXWGqQAbGGu1htOsoURNkj3usJJJ3W2yHnBJ7wucrpmBn+/NCgjK3AjVd4jgAUHBJt7fD6AU8Fnm5YAA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: DNaojsYQOIb5Ls04NGKoZVL7RVd68l5GloU+0hsngjya27FeUqtjD2KUVKwa4g0z8uiYp1x+25ZRjvzFWTwFCQ==
+length: 2363
 -->
