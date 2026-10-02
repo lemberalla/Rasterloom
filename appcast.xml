@@ -28,9 +28,7 @@ Create and add artwork without leaving the canvas.
 - Panel headers share aligned divider lines. The selected artwork name stays in Properties.
 - Resize dividers highlight blue on hover and drag, have a wider hit area, and reset to their default width on double-click.
 
-Requirements: Apple silicon and macOS 15 or later. Installed-app acceptance on macOS 15 is still pending. The optional description model requires at least 8 GB of memory; minimum-hardware acceptance is still pending.
-
-This is an alpha, not a Photoshop-compatibility promise. Keep backups of important projects. Relight is an isolated experiment and is not included. Commercial activation is not enabled in this build.
+Requirements: Apple silicon and macOS 15 or later.
 ]]></description>
             <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.1/Rasterloom-0.1.1.zip" length="255914442" type="application/octet-stream" sparkle:edSignature="8Ay15LSmSOEYj2f4OJqCkF65StvCljUh3GtHkBpIoDXHg89FHrPRDE4ApjoRU6XUnLmfwPoqmt9VI6FM0y5jAg=="/>
         </item>
@@ -51,15 +49,13 @@ The first testing release of Rasterloom, a Tiny Things app.
 - Optional on-device image descriptions and tag suggestions after a separate model download.
 - Automatic update checks, a manual check, and a quiet update-available button.
 
-Requirements: Apple silicon and macOS 15 or later. Installed-app acceptance on macOS 15 is still pending. The optional description model requires at least 8 GB of memory; minimum-hardware acceptance is still pending.
-
-This is an alpha, not a Photoshop-compatibility promise. Keep backups of important projects. Relight is an isolated experiment and is not included. Commercial activation is not enabled in this build.
+Requirements: Apple silicon and macOS 15 or later.
 ]]></description>
             <enclosure url="https://github.com/lemberalla/rasterloom-releases/releases/download/v0.1.0/Rasterloom-0.1.0.zip" length="255857171" type="application/octet-stream" sparkle:edSignature="k0KpzYUXWGqQAbGGu1htOsoURNkj3usJJJ3W2yHnBJ7wucrpmBn+/NCgjK3AjVd4jgAUHBJt7fD6AU8Fnm5YAA=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Gc9bY6RGPVa0F8ADAnGTf0cpBFTqy/yk1WnbBlfLis9xUfkkBrXndhedYp3uYolg/1sD4SrOn8oB2F7Hmi1KAw==
-length: 4531
+edSignature: svrSVvchFTTX5jQhjwnj4sOPEL3qlV8LCKDW5exe7PY6ynuUoUQnJAGdeBCuQDCRmN4vXhCg0Q7bSumUGHEBCQ==
+length: 3797
 -->
