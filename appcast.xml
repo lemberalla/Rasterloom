@@ -9,6 +9,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 02 Oct 2026 13:35:23 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.1.1 alpha
+
+Create and add artwork without leaving the canvas.
+
+- Generate images with Apple Image Playground on supported Macs. Apple Intelligence must be enabled; availability depends on your macOS version, language and region. Third-party generation providers are not offered.
+- A new Create panel brings image generation, mesh gradients, device mockups and blank layers together above the canvas.
+- Search and filter library assets from the canvas, then insert the original artwork as an undoable layer.
+- Brush and Eraser have separate toolbar icons and favorites, with their existing B and E shortcuts.
+- Layer actions remain compact icons, separate from creation tools.
+- Panel headers share aligned divider lines. The selected artwork name stays in Properties.
+- Resize dividers highlight blue on hover and drag, have a wider hit area, and reset to their default width on double-click.
+
+Requirements: Apple silicon and macOS 15 or later. Installed-app acceptance on macOS 15 is still pending. The optional description model requires at least 8 GB of memory; minimum-hardware acceptance is still pending.
+
+This is an alpha, not a Photoshop-compatibility promise. Keep backups of important projects. Relight is an isolated experiment and is not included. Commercial activation is not enabled in this build.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.1/Rasterloom-0.1.1.zip" length="255914442" type="application/octet-stream" sparkle:edSignature="8Ay15LSmSOEYj2f4OJqCkF65StvCljUh3GtHkBpIoDXHg89FHrPRDE4ApjoRU6XUnLmfwPoqmt9VI6FM0y5jAg=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 01 Oct 2026 14:44:31 +0700</pubDate>
             <link>https://github.com/lemberalla/rasterloom-releases/releases</link>
@@ -34,6 +60,6 @@ This is an alpha, not a Photoshop-compatibility promise. Keep backups of importa
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: DNaojsYQOIb5Ls04NGKoZVL7RVd68l5GloU+0hsngjya27FeUqtjD2KUVKwa4g0z8uiYp1x+25ZRjvzFWTwFCQ==
-length: 2363
+edSignature: Gc9bY6RGPVa0F8ADAnGTf0cpBFTqy/yk1WnbBlfLis9xUfkkBrXndhedYp3uYolg/1sD4SrOn8oB2F7Hmi1KAw==
+length: 4531
 -->
