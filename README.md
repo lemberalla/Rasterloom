@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.1/Rasterloom.dmg"><strong>Download 0.1.1 alpha</strong></a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.2/Rasterloom.dmg"><strong>Download 0.1.2 alpha</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rasterloom.com/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.1">Release notes</a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.2">Release notes</a>
 </p>
 
 <p align="center">Apple silicon · macOS 15 or later</p>
@@ -31,10 +31,8 @@
 
 Open the downloaded DMG and drag Rasterloom into Applications. Future updates are available in the app; you can also download them here.
 
-This is an alpha. Keep backups of important projects. macOS 15 and minimum-memory hardware testing are still pending.
-
 [Privacy](https://rasterloom.com/privacy/) · [Update feed](https://raw.githubusercontent.com/lemberalla/Rasterloom/main/appcast.xml)
 
 Downloads and updates live here. Application source is maintained separately in a private repository.
 
-Made by Oncel Ozgebayram at [Tiny Things](https://tinythings.app/).
+Made by Oncel Cebeci at [Tiny Things](https://tinythings.app/).
