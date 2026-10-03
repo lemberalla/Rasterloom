@@ -9,6 +9,49 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Sat, 03 Oct 2026 21:44:32 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.1.3 alpha
+
+Build out multi-artboard designs faster, with matching backgrounds, direct canvas actions and more reliable connected-agent workflows.
+
+## Artboards on the canvas
+
+- Choose a transparent, white or custom-color background when creating an artboard, just as you can for the first canvas. Solid backgrounds remain editable layers and follow artboard resizing.
+- With the Artboard tool active, use the + buttons on the top, right, bottom and left edges to create a matching artboard in that position.
+- Click an artboard's name to select it and activate the Artboard tool. Shift-click names to select multiple artboards.
+- A shared selection outline encloses all selected artboards. Move them together with their layers; individual artboards keep their resize handles.
+- Right-click an artboard or its name for Rename / Resize, Duplicate and Delete. Multi-artboard duplication and deletion are each one undoable action.
+- Delete or Backspace removes selected artboards and their contents. Undo restores the artboards, contents and selection.
+- Backgrounds, positions and editable content are preserved when saving and reopening projects.
+
+## More reliable MCP workflows
+
+- Layer and tab lists now return structured objects that work correctly with Claude Code and other MCP clients.
+- Slow or stalled requests no longer block every subsequent call. Agents can still inspect the app while an edit waits for project I/O or rendering.
+- Requests support cancellation and bounded timeouts. Withdrawn work cannot commit late document changes.
+- Agent-created canvases start clean, without an empty placeholder layer.
+- Set text color and tracking when creating text, avoiding an extra recoloring step.
+- Discover fonts by family and style, with exact PostScript names for text creation and clearer invalid-font errors.
+- Mesh gradients and device mockup rendering now honor cancelled agent requests before changing the document.
+- Opened project copies use the source project's name instead of a generic Untitled tab.
+- Updated tool schemas and the bundled agent guide describe the current result shapes, discovery options and canvas controls.
+
+## A more consistent interface
+
+- Creation sheets, export and document panels, and floating tool panels use Rasterloom's own panel colors, typography and button styling.
+- Panel appearance follows the app's selected theme, including comparison and PDF workflows.
+
+Requirements: Apple silicon and macOS 15 or later.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.3/Rasterloom-0.1.3.zip" length="256408334" type="application/octet-stream" sparkle:edSignature="4ZdDoBSD8uSXT2ZbhJ0HVsfC6W4XDzLz1cMS26EUHxHCFMYD3dMqCBuBpbA9HLZqz2t/uTJYjSKYMfW41qACBA=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Sat, 03 Oct 2026 13:16:31 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -129,6 +172,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /eCdcYQbqvDhDAvVFPWXPbcJokL9ZK5TO9wkBdCnv51iw56UZeR1t2AyuzCugfkmrKU9+bQoZheLC8y5sdIkCw==
-length: 9816
+edSignature: jxdtssyJbffyM1Q30gx97pwFaHuQFdpFi2iBsVkLrJndQjUsCgEICOK7MmX04RPfeuicXkMxhJgZyjsk/O+EAg==
+length: 13134
 -->
