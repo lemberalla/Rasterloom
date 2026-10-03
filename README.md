@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.2/Rasterloom.dmg"><strong>Download 0.1.2 alpha</strong></a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.3/Rasterloom.dmg"><strong>Download 0.1.3 alpha</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rasterloom.com/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.2">Release notes</a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.3">Release notes</a>
 </p>
 
 <p align="center">Apple silicon · macOS 15 or later</p>
