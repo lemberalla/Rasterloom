@@ -9,6 +9,79 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Sat, 03 Oct 2026 13:16:31 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.1.2 alpha
+
+Develop photos directly on the canvas, preserve their originals, and take them through comparison, print preparation and export.
+
+## Photo editing on the canvas
+
+- A new Develop panel lives in Properties, alongside the existing canvas tools. Its sections open expanded, and adjustments update the canvas live.
+- Import and develop RAW/DNG files supported by macOS, as well as common photo formats. Original files and editable settings stay together in the project.
+- Adjust exposure, contrast, highlights, shadows, whites and blacks, with a histogram for reference.
+- Set white balance using As Shot, Daylight, Cloudy, Shade or Tungsten presets, temperature and tint controls, or an eyedropper that samples a neutral area.
+- Edit master and individual RGB tone curves directly on a graph. Add, drag and remove control points, enter input/output values, or double-click a point to reset it.
+- Adjust vibrance and saturation, then refine hue, saturation and luminance for individual color ranges in the color mixer. Advanced controls provide red, green and blue channel balance.
+- Edits take effect immediately, with no Apply step. Each slider or curve drag is an undoable action, and Reset supports undo too. Switching layers and reopening projects retain their photo settings.
+
+## Before and after
+
+- The sidebar photo preview fills the available width.
+- Compare the original and edited photo in a larger, resizable window.
+- Choose a draggable before/after wipe or side-by-side images. Shared zoom and pan keep both views aligned, and Fit returns to the complete image.
+- Use Before in the Develop panel to inspect the original on the canvas without changing the saved adjustments.
+
+## Faster asset placement
+
+- The asset library preserves original photo data, so placing a library photo retains its Develop controls.
+- Double-click an asset to place it on the last active canvas. Rasterloom creates a canvas when one is needed.
+- Right-click asset cards for placement and other asset actions, reducing trips through nested menus.
+
+## Export and print
+
+- Export opens in a larger, resizable panel, with a large encoded preview, transparency checkerboard, and Fit or 100% inspection.
+- Settings are grouped into image size, file settings, color and precision, metadata, watermarking and print size. JPEG export uses the same full panel.
+- Export layered compositions directly, with no flattening acceptance checkbox or extra fallback confirmation.
+- Choose sRGB, Display P3 or Adobe RGB output, with 16-bit PNG/TIFF and output sharpening for photo delivery.
+- Export HEIC and AVIF when macOS provides the encoder, alongside the existing PNG, JPEG, TIFF, WebP, PDF, SVG and layered PSD formats.
+- Control copyright, camera metadata, location metadata and text watermarks.
+- Check print dimensions and effective photo resolution. Preview a printer/paper ICC profile in the large preview, choose a rendering intent and black-point compensation, and inspect the gamut estimate.
+- Use a printer ICC profile for TIFF output, or create a PDF photo contact sheet with paper size, grid and caption options.
+
+## Autosave and document versions
+
+- Saved `.rloom` projects update automatically while the document is stable and when Rasterloom moves to the background. Untitled documents keep recovery copies until their first Save.
+- Document Versions now includes automatic checkpoints alongside named restore points. The latest 20 automatic checkpoints are retained, and named versions remain available.
+- Restoring a version supports undo. The existing on-disk version is preserved before the first automatic replacement, and changes made by another writer are reported rather than overwritten.
+
+## Better connected-agent workflows
+
+- The app and MCP helper now share an App Group, improving access from Claude Code and other MCP clients.
+- A live capabilities catalog exposes available operations, filters and adjustments with their parameters, mesh presets, device names, blend modes and export presets.
+- Agents can discover installed font names and variable-font axes, use fixed-value schemas, and receive errors that identify valid values.
+- A bundled automation guide is available through MCP and covers both tool workflows and computer-use accessibility identifiers.
+- Filter search handles punctuation, spaces and case consistently. Filter tiles, search fields, presets and panel actions have stable accessibility identifiers, and floating panels remain accessible while Rasterloom is in the background.
+
+## Interface improvements and fixes
+
+- Tool icons, toolbar menus and other controls have consistent hover feedback and button styling.
+- Tooltips appear much faster with a brief delay, and hover feedback no longer interrupts their tracking.
+- Tooltips from inactive workspaces no longer appear over the canvas, and canvas objects no longer show obstructive tooltips.
+- Improved inspector spacing and control labels prevent awkward wrapping, including in comparison controls.
+- Moodboards are easier to target from the canvas.
+- MacBook mockup artwork fills the complete screen beneath the notch.
+
+Requirements: Apple silicon and macOS 15 or later.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.2/Rasterloom-0.1.2.zip" length="256374588" type="application/octet-stream" sparkle:edSignature="X9pxGJobrX3hora0IVzLU/7zbOR5JjGq+yvgz7770j/QfETwXwEaj64YZWrv5ZwYuyR2uYfo2cQwwVE21TZTAg=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 02 Oct 2026 13:35:23 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -56,6 +129,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: svrSVvchFTTX5jQhjwnj4sOPEL3qlV8LCKDW5exe7PY6ynuUoUQnJAGdeBCuQDCRmN4vXhCg0Q7bSumUGHEBCQ==
-length: 3797
+edSignature: /eCdcYQbqvDhDAvVFPWXPbcJokL9ZK5TO9wkBdCnv51iw56UZeR1t2AyuzCugfkmrKU9+bQoZheLC8y5sdIkCw==
+length: 9816
 -->
