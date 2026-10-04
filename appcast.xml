@@ -9,6 +9,53 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 05 Oct 2026 05:03:45 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.1.4 alpha
+
+Work with ChatGPT or Claude directly on your canvas, with editable results and conversations that stay with your project.
+
+## Assistants on the canvas
+
+- Connect your installed ChatGPT or Claude CLI using its existing account sign-in, without entering an API key in Rasterloom.
+- Press K to place an assistant note for a layer, artboard or canvas. The action is also available in the toolbar and customizable Favorite Actions.
+- Move notes and chat cards freely, resize the conversation and message field, and choose a beside-pin, canvas or bottom presentation.
+- Choose a model in the composer. Rasterloom remembers your choice for each provider until you change it.
+- Each note keeps its own session, messages and draft when you save and reopen the project.
+- Resolve a note with the checkmark to clear it from the canvas. Search Assistant History to reopen and continue the same conversation.
+- Read rendered Markdown, copy individual messages, stop a running request and queue a follow-up. Enter sends; Shift-Enter adds a line.
+- Chat cards become translucent over artwork when they are not targeted. Scroll fades and a Latest action keep longer conversations easy to follow.
+- Connected assistants can preview the canvas, inspect the targeted layer and use the note's attached position as context.
+
+## More native editing tools for agents
+
+- In-app assistants and external MCP clients share the same native editing tools, including brush, eraser, healing and clone strokes, pixel selections, fills, gradients and filters.
+- Edit photo and RAW recipes, text, vectors, layer effects, paint stacks, smart objects, masks and design styles.
+- Remove a photo background into an editable subject mask while preserving the original image and development recipe.
+- Unlock layers, move linked masks with their artwork and receive clear errors when a layer cannot be edited.
+- Search and preview the asset library, place original assets, manage collections and use saved versions.
+- Grant access to a specific folder to browse, preview and import its artwork from a conversation.
+- Work with PDF text, pages, annotations, links and form fields, and create or arrange moodboards with the same native tools used in the app.
+- Export artwork, PDFs, moodboards and photo contact sheets. Uninterrupted edits from an assistant turn can be undone together.
+
+## Faster photo development and interface fixes
+
+- Image and RAW development now coalesces live previews while you adjust controls, then refines the result without rendering every intermediate change at full resolution.
+- Before/after previews stay consistent through cache refreshes and undo, including white balance and curves.
+- Opening a file no longer brings up an empty Before & After window.
+- The Artboard tool shortcut is now F. Shift-O still selects the tone tool.
+- Improved control padding, chat alignment, compact copy buttons and clearer conversation empty states.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.4/Rasterloom-0.1.4.zip" length="257250164" type="application/octet-stream" sparkle:edSignature="CVVIMA2A1tvFbt9SwEDigDFcJ9IG+JbQ0qp+C1wzu925Eul8xemfGwm8CzwvnswZk/euOWtiFvOEORBjIJsFAA=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Sat, 03 Oct 2026 21:44:32 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -172,6 +219,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: jxdtssyJbffyM1Q30gx97pwFaHuQFdpFi2iBsVkLrJndQjUsCgEICOK7MmX04RPfeuicXkMxhJgZyjsk/O+EAg==
-length: 13134
+edSignature: /G1BFHrotOFdZcvlOU/dT7Z9RyeXKhKt64utELGMuW5kh5qAjfcFLdFYpAiBMoWtZ819/ME9T7E3CI0awnn3Cg==
+length: 17047
 -->
