@@ -9,6 +9,41 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Tue, 06 Oct 2026 16:21:05 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.1.5 alpha
+
+Turn your artboards into editable 3D mockup scenes, then refine the composition yourself or with your canvas assistant.
+
+## 3D Mockup Studio
+
+- Open Create → 3D mockup scene to stage artboards on phones, tablets, laptops, displays, browser windows, cards and framed prints.
+- Combine multiple devices, choose finishes and screen crops, and arrange them with move and rotate controls.
+- Explore 20 looks with studio, silk, sunset, gallery and other backdrops. Adjust lighting, shadows, reflections, particles and lens effects.
+- Orbit, zoom and choose camera presets. Switching looks preserves your camera and device placement.
+- Compare look thumbnails using the same artwork and framing. Backdrops follow the device group's position consistently.
+- Add editable headline text beside the devices and choose the output size or a transparent background.
+- Reopen a saved scene to keep editing, or refresh its screens from the source artboards. Scene settings stay with your project.
+
+## Mockup tools for your assistant
+
+- In-app ChatGPT and Claude conversations and external MCP clients share the same 3D scene tools.
+- Edit one device by its ID without rearranging the others. Change its position, rotation, size, finish or screen artwork.
+- Control camera position, target, lens, projection and framing, including orbit, pan and zoom.
+- Preview a proposed scene or compare looks before committing a change to the document.
+- Update lighting, effects, focus, backgrounds and headline text, or shuffle the look without changing the composition.
+- Scene and headline changes share one Undo step. Apply waits for queued editor changes before saving the final scene.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.5/Rasterloom-0.1.5.zip" length="257792199" type="application/octet-stream" sparkle:edSignature="QbQH6HVfZ7hd9NbTusssvMZ93MZDE7ti14un6iwEHjm2uJkd2W1J4LHKf3EOV9WHN/MeQ1Rzy463BDldPrqJAg=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Mon, 05 Oct 2026 05:03:45 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -219,6 +254,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /G1BFHrotOFdZcvlOU/dT7Z9RyeXKhKt64utELGMuW5kh5qAjfcFLdFYpAiBMoWtZ819/ME9T7E3CI0awnn3Cg==
-length: 17047
+edSignature: OgLNdiQHuYRQ/zbUe59cKVc+2ZPV4D8MZT6WmFljaEol4PCdpJ6awFr82HijGYvOVp21h0725+L3mtiImTYwDQ==
+length: 19700
 -->
