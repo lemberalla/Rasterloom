@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.4/Rasterloom.dmg"><strong>Download 0.1.4 alpha</strong></a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.5/Rasterloom.dmg"><strong>Download 0.1.5 alpha</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rasterloom.com/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.4">Release notes</a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.5">Release notes</a>
 </p>
 
 <p align="center">Apple silicon · macOS 15 or later</p>
@@ -24,6 +24,7 @@
 ### Make, collect, organize
 
 - **Edit** with layers, editable text and vectors, gradients, masks, retouching, and export.
+- **Stage** artboards in editable 3D mockup scenes with devices, backdrops, lighting and camera controls.
 - **Collect** images, links, notes, and colors in saved moodboards.
 - **Organize** a local asset library. Optional image descriptions and tag suggestions run on-device after a model download.
 - **Collaborate** with ChatGPT or Claude through canvas notes, using your installed, signed-in CLI. Inspect, edit and preview work, then return to saved conversations.
