@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.1.5/Rasterloom.dmg"><strong>Download 0.1.5 alpha</strong></a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.2/Rasterloom.dmg"><strong>Download 0.2 alpha</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rasterloom.com/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.1.5">Release notes</a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.2">Release notes</a>
 </p>
 
 <p align="center">Apple silicon · macOS 15 or later</p>
@@ -23,7 +23,8 @@
 
 ### Make, collect, organize
 
-- **Edit** with layers, editable text and vectors, gradients, masks, retouching, and export.
+- **Edit** on a Metal-backed canvas with layers, editable text and vectors, gradients, masks, retouching, and export.
+- **Refine** imported SVG, EPS, and Illustrator artwork with on-canvas path editing, individual corners, background blur, and text-contrast reports.
 - **Stage** artboards in editable 3D mockup scenes with devices, backdrops, lighting and camera controls.
 - **Collect** images, links, notes, and colors in saved moodboards.
 - **Organize** a local asset library. Optional image descriptions and tag suggestions run on-device after a model download.
