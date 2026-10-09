@@ -9,6 +9,58 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.2</title>
+            <pubDate>Fri, 09 Oct 2026 15:23:22 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.2 alpha
+
+A faster canvas, more capable vector editing and a more polished workspace for designing with your assistant.
+
+## Faster, sharper canvas
+
+- Metal-backed canvas rendering makes zooming, panning and moving objects more responsive.
+- Shapes, text and vector paths stay sharp as you zoom in.
+- Dense vector artwork reuses unchanged rendering while you select, move and edit objects.
+
+## Editable vector artwork
+
+- Import SVG, EPS and Illustrator artwork as editable layers, with expanded support for gradients, gradient meshes, masks and clipping.
+- Edit anchors and Bézier handles directly on the canvas with Direct Selection. Add paths with the Pen tool and refine their appearance in the inspector.
+- Join, split, reverse, open and close contours, or smooth and remove anchors.
+- Ungroup folders without deleting their child layers.
+- Canvas assistants and external MCP clients share the vector geometry, appearance, mask and Ungroup tools.
+
+## Precision design tools
+
+- Set corner radii together or adjust each corner independently.
+- Add background blur to create glass panels over your artwork.
+- Check text contrast across the document and review suggested improvements.
+- Measure rendered text, apply layout grids and import inline SVG through assistant tools.
+
+## Artboards and workspace
+
+- Select multiple artboards, copy and paste complete artboards, and move them together.
+- Double-click an artboard name to rename it inline. Artboard settings update immediately.
+- Navigate with the expandable minimap and Center on the main artboard cluster at 100% zoom.
+- Narrow windows keep the editor controls usable, with more compact layer rows.
+- Cut selected objects with ⌘X, undo while editing text, and close a new-canvas tab with ⌘W.
+- Improved project saving for documents with many editable layers.
+
+## Canvas assistants
+
+- Provider, model, Stop and Send controls now live inside a unified composer.
+- Smooth breathing rainbow light makes working sessions easier to spot.
+- Conversation history has clearer grouping, search recovery and empty states.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.2/Rasterloom-0.2.zip" length="266312869" type="application/octet-stream" sparkle:edSignature="R7GIOv3TYlK5nTeR2E9XBFhscwVWdUPJn/LlI3Ak+cI2gBaGeBlRTsuGM6MvnzYJfa2Q8gtrZKMPoUrpHZeOCg=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Tue, 06 Oct 2026 16:21:05 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -254,6 +306,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: OgLNdiQHuYRQ/zbUe59cKVc+2ZPV4D8MZT6WmFljaEol4PCdpJ6awFr82HijGYvOVp21h0725+L3mtiImTYwDQ==
-length: 19700
+edSignature: dZv7/mXx0A/T/MGNUooi1h+Gk0XuQeYceM3UsKeg+iB5RvQ8UlF/cl8tZ1lEze+db1w7PBsheMrmM28kVmkfBg==
+length: 22742
 -->
