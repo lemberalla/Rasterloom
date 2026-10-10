@@ -9,6 +9,42 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.3</title>
+            <pubDate>Sun, 11 Oct 2026 04:20:28 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.3 alpha
+
+Relight your photos in 3D, and use every filter directly on photos and smart objects.
+
+## Relight
+
+- Relight a photo with new lights after it was taken. Rasterloom estimates the scene's depth and the subject's shape, so light wraps around faces and objects and the subject casts real shadows onto the background.
+- Texture, skin tones and colors stay true: only the light changes.
+- Start from ten setups: Soft Key, Rembrandt, Butterfly, Split, Rim Light, Golden Hour, Window, Dramatic, Neon and Moonlight. Each preset shows a small lit preview.
+- Place up to four lights by dragging them on the light pad, including beyond the frame. Click an empty spot to add a light, and right-click a light to turn it off, duplicate it or remove it.
+- Adjust each light's height, size, intensity, color temperature or colored gel. Put a light behind the subject for rim light.
+- Balance the scene with ambient fill, original light, shadow strength, relief, roundness, background brightness and exposure.
+- Reset returns to your starting preset, and double-clicking a setting's name resets just that value.
+- Find Relight under Filter → Light, or in the Filters panel. It works offline, with the depth model included in the app.
+- Canvas assistants and external MCP clients can relight with presets, scene settings and custom lights.
+
+## Filters on photos and smart objects
+
+- Every filter and image adjustment now works directly on imported photos and smart objects. Applying one converts the layer to pixels in the same step, and Undo restores the editable photo or smart object.
+
+## Fixes
+
+- Fixed a crash when switching from vector editing to a group or another object.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.3/Rasterloom-0.3.zip" length="312268431" type="application/octet-stream" sparkle:edSignature="eP13ZXPaBpl1rqwlZ1Q4vvFZlanNPk939rPQnaLpJUSlsGswACWFlco3oopkmvOOjC8VY2rDA5aguc2tAiBSAA=="/>
+        </item>
+        <item>
             <title>0.2</title>
             <pubDate>Fri, 09 Oct 2026 15:23:22 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -306,6 +342,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: dZv7/mXx0A/T/MGNUooi1h+Gk0XuQeYceM3UsKeg+iB5RvQ8UlF/cl8tZ1lEze+db1w7PBsheMrmM28kVmkfBg==
-length: 22742
+edSignature: Cw1dEseWWFh2BFWA22j42t/peBhOVEvchpLlohYJgKN9AGT54VtFUVVQS2Ng3myywD1SH4ipMgFc+fUro/XnDg==
+length: 25384
 -->
