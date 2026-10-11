@@ -9,6 +9,43 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.3.5</title>
+            <pubDate>Mon, 12 Oct 2026 01:22:07 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.3.5 alpha
+
+Editable filter stacks, direct photo retouching and a more reliable editing workspace.
+
+## Filters that stay editable
+
+- Add multiple filters to photos, smart objects, text, shapes, vectors and groups without flattening the original artwork.
+- Edit, reorder, bypass or remove individual filters in Properties. Filter settings and selected-area coverage stay with your project.
+- Keep filters applied while painting, erasing or retouching the underlying photo. Color-filter previews update more responsively during strokes.
+- Canvas assistants and external MCP clients can inspect and manage the same editable filter stacks.
+
+## Edit imported photos directly
+
+- Use brushes, erasers, clone and healing tools, blur, smudge, liquify and tone tools without manually converting a photo to pixels.
+- Select with the magic wand, clear or cut selected pixels, fill, apply gradients, move selected regions and distort photos directly.
+- Original files and photo metadata remain preserved. Develop works on your edited photo, so resetting it does not restore erased pixels.
+
+## A steadier workspace
+
+- Filter panels open near the upper-right of the editor, keeping more of the canvas visible. Tall panels scroll and compact labels and units stay on one line.
+- Improved control layouts across filter panels and inspectors, including narrower windows.
+- Fixed stale inspector edits when switching layers or removing controls, and improved Undo and Cancel handling.
+- Improved PSD mask and Illustrator/EPS import handling, project persistence and export reliability.
+- Mockup screen changes stay staged until you save the scene; Cancel leaves the document unchanged.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.3.5/Rasterloom-0.3.5.zip" length="312533895" type="application/octet-stream" sparkle:edSignature="d4hFigqnGtl7XpUgkDhZnrzTthXoONKnQ/TDcwQY2RzqbiDyvT/9rZbWg8u4VtWjTjS7hpzQ29911x47p9x9BQ=="/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Sun, 11 Oct 2026 04:20:28 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -342,6 +379,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Cw1dEseWWFh2BFWA22j42t/peBhOVEvchpLlohYJgKN9AGT54VtFUVVQS2Ng3myywD1SH4ipMgFc+fUro/XnDg==
-length: 25384
+edSignature: ZbzQAvoygs2lwHIBeNDqI8TwON3QftGpP7pn2zRAzkA7pS8FRIYF4CWntbeW3ZeU+2zpAVtM8QUzLyNYtxbQCg==
+length: 28028
 -->
