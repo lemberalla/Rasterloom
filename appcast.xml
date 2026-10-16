@@ -9,6 +9,36 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.3.6</title>
+            <pubDate>Sat, 17 Oct 2026 04:31:51 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.3.6 alpha
+
+Transform controls stay within reach across your canvas.
+
+## Transform without hunting through Properties
+
+- Move and resize layers, groups, multiple selections and artboards from a persistent Transform bar above the canvas rulers.
+- Reach rotation, flips, alignment, distribution, scale, interpolation and Move options directly when there is room. Only controls that do not fit move into overflow.
+- Numeric fields use the available space. Narrow canvases keep position and size accessible in two rows rather than clipping controls.
+- Lock proportions between the width and height fields, without an extra hover bezel.
+- Press Return to apply a numeric transform or Escape to cancel. Changes work with Undo and Redo.
+
+## A more balanced photo workspace
+
+- Photo Develop keeps a compact, aspect-fit preview in Properties, leaving more space for editing controls.
+- Transform stays in the same place when switching between photos, text, shapes and vectors.
+- Artboard selections show the selected artboard's properties instead of the underlying photo's Develop controls.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.3.6/Rasterloom-0.3.6.zip" length="312563667" type="application/octet-stream" sparkle:edSignature="FYb63sgZqmJ6qBes+mkoJdb0hCvebH3LOBxM+jiCniQrLFc0fVFitQ3FcmuC8xVXXdd/i4ZnJHCCaK+x+hZsDg=="/>
+        </item>
+        <item>
             <title>0.3.5</title>
             <pubDate>Mon, 12 Oct 2026 01:22:07 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -379,6 +409,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ZbzQAvoygs2lwHIBeNDqI8TwON3QftGpP7pn2zRAzkA7pS8FRIYF4CWntbeW3ZeU+2zpAVtM8QUzLyNYtxbQCg==
-length: 28028
+edSignature: RnqH80nxpK3S14PqiIFy7swlNlUIgRRdAmSCzU66YZDmcEF6nZtyjPgCTBQ+mOPgefe/CPnpWC+lQdNk7ljcAQ==
+length: 30087
 -->
