@@ -9,6 +9,45 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.3.7</title>
+            <pubDate>Thu, 22 Oct 2026 00:26:49 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.3.7 alpha
+
+Color, fills and gradients, right where you work.
+
+## A shared color picker
+
+- Use Rasterloom's color picker across text, shapes, vectors, backgrounds and effects.
+- Pick colors visually, sample from the screen, or enter precise HEX, RGB, HSL and OKLCH values.
+- Keep document, recent and saved colors close at hand.
+- Author shape and vector paint in sRGB or Display P3.
+- The picker fits its content, without unused space below the controls.
+
+## Fills and gradients without the modal
+
+- Edit fill and stroke stacks directly from Properties, with live canvas previews and Undo/Redo.
+- Adjust gradient direction and geometry on the canvas.
+- Add and drag gradient stops, edit their position and opacity, and remove a selected stop with Backspace. Start and end stops can also be removed while retaining at least two stops.
+- Choose Classic RGB, Perceptual Oklab or Vibrant OKLCH gradient interpolation.
+- Pin the paint editor when you want to keep it open alongside your artwork.
+
+## A smoother workspace
+
+- New canvases no longer include an unused starter pixel layer. Painting creates one when needed; solid backgrounds remain editable Background layers.
+- New text chooses a contrasting default color against the artwork beneath it. A color you choose explicitly is preserved.
+- Fixed an editor freeze when double-clicking a library asset into an existing canvas.
+- Improved inspector spacing and readability of compact numeric controls.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.3.7/Rasterloom-0.3.7.zip" length="312713208" type="application/octet-stream" sparkle:edSignature="pSy87MbYWCZLKWPRd5mv90jZPWMDwVq4b8/5od2GBSCXywzVbjZ+8DToTFRUb1qds65ZVQGmkzqxOoAug8DDDw=="/>
+        </item>
+        <item>
             <title>0.3.6</title>
             <pubDate>Sat, 17 Oct 2026 04:31:51 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -409,6 +448,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RnqH80nxpK3S14PqiIFy7swlNlUIgRRdAmSCzU66YZDmcEF6nZtyjPgCTBQ+mOPgefe/CPnpWC+lQdNk7ljcAQ==
-length: 30087
+edSignature: CvE44P/IK57EMR+DnYcA1ZgOtUg9/UpRdyb4A71UYD22JWPyle99NEiVkggBEJsOgDpMOr0mrhu7hXEM1gpoAA==
+length: 32517
 -->
