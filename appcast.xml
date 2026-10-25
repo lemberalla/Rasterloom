@@ -9,6 +9,45 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sun, 25 Oct 2026 23:05:28 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.4.0 alpha
+
+Typography, directly on the canvas.
+
+## On-canvas typography
+
+- Adjust size, tracking, pair kerning, leading and baseline with a compact floating control beside your text.
+- Hover the parameter name to switch controls, or scroll over it to cycle through them.
+- Drag the slider or type an exact value, with the unit shown beside it.
+- Adjust weight, width and slant when your variable font supports those axes.
+- Align text left, center or right without leaving the canvas.
+- Use familiar keyboard shortcuts for size, tracking, kerning, leading and baseline. Your caret and text selection stay in place.
+- Each slider drag is one Undo step. Press Escape during a drag to restore its starting value.
+
+## Live text properties
+
+- Edit selected text directly in Properties, including with the Move tool active.
+- Font, color, spacing, alignment and text-frame changes appear immediately, without a Done step.
+- Alignment uses left, center and right icons in both Properties and the floating control.
+- The floating control follows the app's theme and keeps a consistent layout as you switch parameters.
+
+## A smoother editing flow
+
+- Click outside the text frame to finish editing and return to Move, without creating an empty text layer.
+- Switching layers keeps your text edits on the original layer.
+- Paragraph leading remains editable after saving and reopening a project, and carries through exports.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.4.0/Rasterloom-0.4.0.zip" length="305851722" type="application/octet-stream" sparkle:edSignature="2IIR0tlH5KwSBaHO/lju2j/NAp5juasz9UB9F1LqYiYqkkG3wTANdSzWaS0skQoHkH4Rt5NGZ2nDMf39SRt3Cw=="/>
+        </item>
+        <item>
             <title>0.3.7</title>
             <pubDate>Thu, 22 Oct 2026 00:26:49 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -448,6 +487,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: CvE44P/IK57EMR+DnYcA1ZgOtUg9/UpRdyb4A71UYD22JWPyle99NEiVkggBEJsOgDpMOr0mrhu7hXEM1gpoAA==
-length: 32517
+edSignature: SldL9bR8Cpgj958o519JpTX0AjrdeshtTdEJdO7YZK8I27cOtrSGSl4ye7MfLlmIlLdT31Ztq62suENMovVWBw==
+length: 34909
 -->
