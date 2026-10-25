@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.3.7/Rasterloom.dmg"><strong>Download 0.3.7 alpha</strong></a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.4.0/Rasterloom.dmg"><strong>Download 0.4.0 alpha</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rasterloom.com/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.3.7">Release notes</a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.4.0">Release notes</a>
 </p>
 
 <p align="center">Apple silicon · macOS 15 or later</p>
@@ -24,6 +24,7 @@
 ### Make, collect, organize
 
 - **Edit** on a Metal-backed canvas with layers, editable text and vectors, gradients, masks, retouching, and export.
+- **Type** with direct on-canvas typography controls, familiar keyboard shortcuts, variable font axes and live text properties.
 - **Relight** photos in 3D with movable lights, color temperature, gels and real cast shadows.
 - **Retouch** imported photos directly while preserving originals, and edit, reorder or remove filters in a live layer stack.
 - **Refine** imported SVG, EPS, and Illustrator artwork with on-canvas path editing, individual corners, background blur, and text-contrast reports.
