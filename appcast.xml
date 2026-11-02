@@ -9,6 +9,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 03 Nov 2026 04:28:42 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.4.1 alpha
+
+Improved MCP compatibility for connected AI assistants.
+
+- Supports newer MCP clients while retaining support for earlier protocol versions.
+- Improves discovery of available tools and responses to invalid requests.
+- Handles request IDs and cancellation more accurately.
+
+Requirements: Apple silicon and macOS 15 or later. Canvas assistants use an installed, signed-in ChatGPT or Claude CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.4.1/Rasterloom-0.4.1.zip" length="305868464" type="application/octet-stream" sparkle:edSignature="9exFwm8bqEcEqfOirUmzKHOQWLut+o0rAUO4l0BgWwkIyqT+4XHbEebai0GHPGpW5GebDHHcabXV6Gti0T6qCg=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Sun, 25 Oct 2026 23:05:28 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -487,6 +507,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SldL9bR8Cpgj958o519JpTX0AjrdeshtTdEJdO7YZK8I27cOtrSGSl4ye7MfLlmIlLdT31Ztq62suENMovVWBw==
-length: 34909
+edSignature: tF716TXPNZDvYlfPjbWTFm1Pn+R9qX3kv+2+UWg8e76aOfMTyGax6O8RoA55peyqlffjf4HHTUvi6XsztGj2BA==
+length: 36170
 -->
