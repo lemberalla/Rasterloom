@@ -9,6 +9,37 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Sat, 14 Nov 2026 18:07:57 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.5.0 alpha
+
+More realistic device mockups, easier update checks and improvements to document recovery.
+
+## Device mockups
+
+- Stage artwork on refined phones, tablets, laptops and displays, with updated materials and camera presets.
+- Try Sunlit Travertine for soft window light and textured stone in a scene you can orbit and relight.
+- Explore reworked studio, gallery and architectural looks, with simpler staging and softer shadows.
+- Use Sunlit Travertine Photo for a fixed composition with a replaceable laptop screen.
+- Keep mockup screens linked to their source artboards and refresh them after editing your design.
+
+## Updates, recovery and connected assistants
+
+- See available updates after relaunching, and check for updates from the toolbar while Rasterloom is busy checking in the background.
+- Automatic document versions share a storage budget. Rasterloom keeps recent checkpoints for each document and preserves named versions.
+- Set up Claude Code through its own CLI and see the connection status when you return to Rasterloom.
+- Failed assistant edits roll back changes made by the request when they can be undone without affecting your edits.
+
+Requirements: Apple silicon and macOS 15 or later.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.5.0/Rasterloom-0.5.0.zip" length="306251956" type="application/octet-stream" sparkle:edSignature="ZKLw5MKusTCHm4cOObt9SGK+ujcR7EXYsW6ElOjACCLbLaYTmj74dF7dOrlrpAwOKDVV+djAM39GFRYxOOXMBw=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Tue, 03 Nov 2026 04:28:42 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -507,6 +538,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: tF716TXPNZDvYlfPjbWTFm1Pn+R9qX3kv+2+UWg8e76aOfMTyGax6O8RoA55peyqlffjf4HHTUvi6XsztGj2BA==
-length: 36170
+edSignature: 9hZ50gQ45SzeAESGT9yqW3GHyylLV+Qtfi0rkbOsDgALpdtMdcXkYYTe4h/9TJcnxbh0KH78GsyQbTeU0v76Cw==
+length: 38241
 -->
