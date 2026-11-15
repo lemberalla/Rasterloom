@@ -9,6 +9,37 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Mon, 16 Nov 2026 03:24:31 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.6.0 alpha
+
+More ways to stage your artwork and organize your Asset Library.
+
+## Mockup Studio
+
+- Choose from 16 new photo scenes with one or two replaceable device screens.
+- Refine live 3D mockups with updated device details, more backdrops and a light you can drag directly in the preview.
+- Export a live 3D mockup as a transparent PNG or place it directly on the canvas with a transparent background.
+- Add custom photo mockup templates with editable screen regions through Rasterloom’s agent tools.
+
+## Asset Library
+
+- Organize collections into subfolders. Open a collection to browse assets in that folder and its subfolders.
+- Drag assets into collections or use **Move To** for one item or a selection. Drop files from Finder onto a collection to import them there.
+- Switch between grid and list views, adjust thumbnail sizes and sort by name, date added or dimensions.
+- Press Space to preview a selected asset. Hide the details panel when you need more room to browse.
+- Rename or remove a collection from the sidebar. Removing a collection keeps its assets in your library.
+
+Requirements: Apple silicon and macOS 15 or later.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.6.0/Rasterloom-0.6.0.zip" length="310160543" type="application/octet-stream" sparkle:edSignature="rxlnWCgH3OVDadaRasybDauUAEAnuVjnUoCaOVTsp+KtVrxCYRhn15z9+1YDs3sQmw//uCfTPD7MR6MmyWEzCw=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Sat, 14 Nov 2026 18:07:57 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -538,6 +569,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 9hZ50gQ45SzeAESGT9yqW3GHyylLV+Qtfi0rkbOsDgALpdtMdcXkYYTe4h/9TJcnxbh0KH78GsyQbTeU0v76Cw==
-length: 38241
+edSignature: j69DOk5PBheRvL1PqvmO/HCgqDItu/NYIXqKInfG3ZiQX+Lp7SMMgBT9LrUXVfPUDg1E0HiGPUMzT8iqAoRVCw==
+length: 40239
 -->
