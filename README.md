@@ -5,16 +5,16 @@
 <h1 align="center">Rasterloom</h1>
 
 <p align="center">
-  Image editing, moodboards, and a local asset library.<br />
+  Image editing, projects, moodboards, and a local asset library.<br />
   Made for Mac.
 </p>
 
 <p align="center">
-  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.6.0/Rasterloom.dmg"><strong>Download 0.6.0 alpha</strong></a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/download/v0.7.0/Rasterloom.dmg"><strong>Download 0.7.0 alpha</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rasterloom.com/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.6.0">Release notes</a>
+  <a href="https://github.com/lemberalla/Rasterloom/releases/tag/v0.7.0">Release notes</a>
 </p>
 
 <p align="center">Apple silicon · macOS 15 or later</p>
@@ -29,6 +29,7 @@
 - **Retouch** imported photos directly while preserving originals, and edit, reorder or remove filters in a live layer stack.
 - **Refine** imported SVG, EPS, and Illustrator artwork with on-canvas path editing, individual corners, background blur, and text-contrast reports.
 - **Stage** artboards in editable 3D mockup scenes with devices, backdrops, lighting and camera controls.
+- **Build** editable designs from shared project context and approved assets. Use one agent or assign separate artboards to an agent team and watch them take shape on the canvas.
 - **Collect** images, links, notes, and colors in saved moodboards.
 - **Organize** a local asset library. Optional image descriptions and tag suggestions run on-device after a model download.
 - **Collaborate** with ChatGPT or Claude through canvas notes, using your installed, signed-in CLI. Inspect, edit and preview work, then return to saved conversations.
