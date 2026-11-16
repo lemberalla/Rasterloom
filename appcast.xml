@@ -9,6 +9,35 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Rasterloom by Tiny Things</description>
         <language>en</language>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Tue, 17 Nov 2026 03:10:59 +0700</pubDate>
+            <link>https://github.com/lemberalla/Rasterloom/releases</link>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Rasterloom 0.7.0 alpha
+
+Projects give your design files, brand references, and assets a shared home.
+
+## Projects
+
+- Start in Projects, where you can create a design, link existing files, or reopen recent work.
+- Add shared brand context in Markdown, choose approved assets from a thumbnail picker, and give each design its own brief.
+- Open designs, edit their briefs, or remove files from their menus. Removing a linked file preserves the original.
+
+## Create with AI
+
+- Choose a connected ChatGPT or Claude model. Work with one agent or assign separate artboards to a team of up to four agents. Add a reviewer if you want feedback on the result.
+- Open the design as soon as the build starts. Watch progress on the canvas, then edit the result in the same file.
+- See active builds at a glance and open build history when you want to review feedback or retry an assignment.
+- Manage projects, designs, and AI builds through Rasterloom’s MCP tools.
+
+Requirements for Rasterloom: Apple silicon and macOS 15 or later. AI builds use your installed, signed-in CLI.
+]]></description>
+            <enclosure url="https://github.com/lemberalla/Rasterloom/releases/download/v0.7.0/Rasterloom-0.7.0.zip" length="310654931" type="application/octet-stream" sparkle:edSignature="4ipzmTdRSQE96OL+k9sim0/1K9y0M2wn34UWM9011vfFNvQWvgIT0SOpQaN3oWoEb+TBitGaCSHgQRcGkrrnAw=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Mon, 16 Nov 2026 03:24:31 +0700</pubDate>
             <link>https://github.com/lemberalla/Rasterloom/releases</link>
@@ -569,6 +598,6 @@ Requirements: Apple silicon and macOS 15 or later.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: j69DOk5PBheRvL1PqvmO/HCgqDItu/NYIXqKInfG3ZiQX+Lp7SMMgBT9LrUXVfPUDg1E0HiGPUMzT8iqAoRVCw==
-length: 40239
+edSignature: 3uDgyisd434yxtMYp9eF9DGqafAqhV7Qvv9SKAbyiYJDdXIr1QtEGktkRX1VCaeT9MJ5CkQew9omJFjJW7eEBw==
+length: 42148
 -->
